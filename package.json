@@ -37,6 +37,7 @@
     "react": "^0.14.0-beta3"
   },
   "dependencies": {
-    "scroller": "git://github.com/mjohnston/scroller"
+    "scroller": "git://github.com/mjohnston/scroller",
+    "invariant": "^2.1.0"
   }
 }
